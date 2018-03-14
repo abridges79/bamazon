@@ -8,3 +8,4 @@ In the Bamazon customer file you can choose from list of items by number and inp
 
 In the Bamazon manager file, you select from a list of actions including 'View Products For Sale', 'View Low Inventory', 'Add to Current Inventory', and 'Add a New Product'. The "View" options retrieve information from the database and display inthe command line. The "Add" options ask what product and the amount of inventory you would like to add or the details of the new product and update the database with the new information.
 
+![cumster gif](/images/manager1.gif/)
